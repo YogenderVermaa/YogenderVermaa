@@ -1,4 +1,4 @@
-## Hi, I'm Yogender Verma  
+## Hi, I'm Yogender 
 Full Stack Developer (MERN) | Passionate about scalable backend systems, clean architecture, cloud deployment, and production-ready applications.
 
 ---
