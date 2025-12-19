@@ -1,6 +1,6 @@
 Hi, I'm Yogender
 
-Full Stack Developer (MERN) | Passionate about scalable backend systems, clean architecture, cloud deployment, and production-ready applications.
+Full Stack Developer | Passionate about scalable backend systems, clean architecture, cloud deployment, and production-ready applications.
 
 ⚡ Tech Stack & Tools
 🚀 Frontend
